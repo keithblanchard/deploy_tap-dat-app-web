@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/deploy_tap-dat-app-web/static/css/main.7aeced27.css",
-    "main.js": "/deploy_tap-dat-app-web/static/js/main.92888e18.js",
+    "main.css": "/deploy_tap-dat-app-web/static/css/main.5b1eb315.css",
+    "main.js": "/deploy_tap-dat-app-web/static/js/main.daecf81b.js",
     "static/media/roboto-all-500-normal.woff": "/deploy_tap-dat-app-web/static/media/roboto-all-500-normal.0ab669b7a0d19b178f57.woff",
     "static/media/roboto-all-700-normal.woff": "/deploy_tap-dat-app-web/static/media/roboto-all-700-normal.a457fde362a540fcadff.woff",
     "static/media/roboto-all-400-normal.woff": "/deploy_tap-dat-app-web/static/media/roboto-all-400-normal.c5d001fa922fa66a147f.woff",
@@ -44,11 +44,11 @@
     "static/media/roboto-greek-ext-300-normal.woff2": "/deploy_tap-dat-app-web/static/media/roboto-greek-ext-300-normal.35b9d6be04b95f0f0530.woff2",
     "static/media/roboto-greek-ext-700-normal.woff2": "/deploy_tap-dat-app-web/static/media/roboto-greek-ext-700-normal.bd9854c751441ccc1a70.woff2",
     "index.html": "/deploy_tap-dat-app-web/index.html",
-    "main.7aeced27.css.map": "/deploy_tap-dat-app-web/static/css/main.7aeced27.css.map",
-    "main.92888e18.js.map": "/deploy_tap-dat-app-web/static/js/main.92888e18.js.map"
+    "main.5b1eb315.css.map": "/deploy_tap-dat-app-web/static/css/main.5b1eb315.css.map",
+    "main.daecf81b.js.map": "/deploy_tap-dat-app-web/static/js/main.daecf81b.js.map"
   },
   "entrypoints": [
-    "static/css/main.7aeced27.css",
-    "static/js/main.92888e18.js"
+    "static/css/main.5b1eb315.css",
+    "static/js/main.daecf81b.js"
   ]
 }
