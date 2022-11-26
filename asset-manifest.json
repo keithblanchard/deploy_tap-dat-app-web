@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "https://keithblanchard.github.io/deploy_tap-dat-app-web/static/css/main.2e3c9a31.css",
+    "main.css": "https://keithblanchard.github.io/deploy_tap-dat-app-web/static/css/main.c742aba3.css",
     "main.js": "https://keithblanchard.github.io/deploy_tap-dat-app-web/static/js/main.64db0e44.js",
     "static/media/roboto-all-500-normal.woff": "https://keithblanchard.github.io/deploy_tap-dat-app-web/static/media/roboto-all-500-normal.0ab669b7a0d19b178f57.woff",
     "static/media/roboto-all-700-normal.woff": "https://keithblanchard.github.io/deploy_tap-dat-app-web/static/media/roboto-all-700-normal.a457fde362a540fcadff.woff",
@@ -44,11 +44,11 @@
     "static/media/roboto-greek-ext-300-normal.woff2": "https://keithblanchard.github.io/deploy_tap-dat-app-web/static/media/roboto-greek-ext-300-normal.35b9d6be04b95f0f0530.woff2",
     "static/media/roboto-greek-ext-700-normal.woff2": "https://keithblanchard.github.io/deploy_tap-dat-app-web/static/media/roboto-greek-ext-700-normal.bd9854c751441ccc1a70.woff2",
     "index.html": "https://keithblanchard.github.io/deploy_tap-dat-app-web/index.html",
-    "main.2e3c9a31.css.map": "https://keithblanchard.github.io/deploy_tap-dat-app-web/static/css/main.2e3c9a31.css.map",
+    "main.c742aba3.css.map": "https://keithblanchard.github.io/deploy_tap-dat-app-web/static/css/main.c742aba3.css.map",
     "main.64db0e44.js.map": "https://keithblanchard.github.io/deploy_tap-dat-app-web/static/js/main.64db0e44.js.map"
   },
   "entrypoints": [
-    "static/css/main.2e3c9a31.css",
+    "static/css/main.c742aba3.css",
     "static/js/main.64db0e44.js"
   ]
 }
